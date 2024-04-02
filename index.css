@@ -1,0 +1,9 @@
+body{
+    background-color: darkred;
+}
+
+h1{
+    color: red;
+    font-size: 200px;
+    font-weight: bolder;
+}
